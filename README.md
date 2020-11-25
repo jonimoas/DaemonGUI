@@ -4,3 +4,5 @@ This is an interface for DAEMON tools, as it lacked one back then :)
 
 the original folder contains the project as it was made then, and i have used 
 VS2008 to bring it up to speed
+
+forum post for historic reasons :) https://forum.daemon-tools.cc/showthread.php?t=17085
